@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What word means 'the legal relationship between a person and a country to which they owe allegiance'?",
+    "answer": "Nationality",
+    "distractor1": "Passport",
+    "distractor2": "ID card",
+    "distractor3": "Eye color",
+    "level": "Beginner",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'brothers and sisters; individuals who share at least one parent'?",
+    "answer": "Siblings",
+    "distractor1": "ID card",
+    "distractor2": "Birthplace",
+    "distractor3": "Spouse",
+    "level": "Beginner",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'a set of beliefs and practices concerning the existence'?",
+    "answer": "Religion",
+    "distractor1": "Ethnicity",
+    "distractor2": "Children",
+    "distractor3": "Education",
+    "level": "Beginner",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'a small card or document that proves a person's identity and often includes personal information like name'?",
+    "answer": "ID card",
+    "distractor1": "Signature",
+    "distractor2": "Strengths",
+    "distractor3": "Occupation",
+    "level": "Beginner",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'deeply desired and often unrealistic or imaginative goals or wishes'?",
+    "answer": "Dreams",
+    "distractor1": "Skills",
+    "distractor2": "Age",
+    "distractor3": "Name",
+    "level": "Beginner",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'a fixed and lasting residential address'?",
+    "answer": "Permanent address",
+    "distractor1": "Mindfulness",
+    "distractor2": "Emotional intelligence",
+    "distractor3": "Critical thinking",
+    "level": "Intermediate",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'titles awarded by educational institutions to signify the completion of specific programs of study'?",
+    "answer": "Academic degrees",
+    "distractor1": "Ancestry",
+    "distractor2": "Introspection",
+    "distractor3": "Citizenship",
+    "level": "Intermediate",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'the capacity to analyze issues and find effective solutions'?",
+    "answer": "Problem-solving skills",
+    "distractor1": "Bilingual",
+    "distractor2": "Career path",
+    "distractor3": "Citizenship",
+    "level": "Intermediate",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'the ability to plan and use time effectively to accomplish tasks and goals'?",
+    "answer": "Time management",
+    "distractor1": "Accomplishments",
+    "distractor2": "Artistic interests",
+    "distractor3": "Permanent address",
+    "level": "Intermediate",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'the process of working on oneself to enhance skills'?",
+    "answer": "Self-improvement",
+    "distractor1": "Adaptability",
+    "distractor2": "Continuous learning",
+    "distractor3": "Work-life balance",
+    "level": "Intermediate",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'the ability to use one or more languages effectively and proficiently'?",
+    "answer": "Linguistic proficiency",
+    "distractor1": "Interpersonal dynamics",
+    "distractor2": "Ontological inquiries",
+    "distractor3": "Neurodiversity",
+    "level": "Advanced",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'creations of the mind'?",
+    "answer": "Intellectual property",
+    "distractor1": "Technological acumen",
+    "distractor2": "Systems thinking",
+    "distractor3": "Sustainable living",
+    "level": "Advanced",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'a sense of belonging and responsibility to the worldwide community'?",
+    "answer": "Global citizenship",
+    "distractor1": "Quantum consciousness",
+    "distractor2": "Literary criticism",
+    "distractor3": "Geopolitical insights",
+    "level": "Advanced",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'the complex interactions and relationships between individuals within a group or social context'?",
+    "answer": "Interpersonal dynamics",
+    "distractor1": "Socioeconomic strata",
+    "distractor2": "Transcendental experiences",
+    "distractor3": "Literary criticism",
+    "level": "Advanced",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'an approach to analyzing and interpreting texts'?",
+    "answer": "Postmodern deconstruction",
+    "distractor1": "Innovations",
+    "distractor2": "Curriculum vitae",
+    "distractor3": "Polyglot",
+    "level": "Advanced",
+    "lessonTitle": "Personal Information"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What word means 'a colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms'?",
+    "answer": "Water",
+    "distractor1": "Habitat",
+    "distractor2": "Ecosystem",
+    "distractor3": "Insect",
+    "level": "Beginner",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the star at the center of the solar system'?",
+    "answer": "Sun",
+    "distractor1": "Endangered species",
+    "distractor2": "Planet",
+    "distractor3": "Season",
+    "level": "Beginner",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the warmest season of the year'?",
+    "answer": "Summer",
+    "distractor1": "Forest",
+    "distractor2": "Planet",
+    "distractor3": "Flower",
+    "level": "Beginner",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the top layer of the Earth's surface'?",
+    "answer": "Soil",
+    "distractor1": "Cloud",
+    "distractor2": "Season",
+    "distractor3": "River",
+    "level": "Beginner",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'organisms that are at risk of becoming extinct due to low population numbers and threats to their survival'?",
+    "answer": "Endangered species",
+    "distractor1": "Ecosystem",
+    "distractor2": "Ocean",
+    "distractor3": "Wind",
+    "level": "Beginner",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'a dense, tropical forest characterized by heavy rainfall and a variety of plant and animal species'?",
+    "answer": "Rainforest",
+    "distractor1": "Soil contamination",
+    "distractor2": "Habitat restoration",
+    "distractor3": "Ecotourism",
+    "level": "Intermediate",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'energy derived from sources that are naturally replenished'?",
+    "answer": "Renewable energy sources",
+    "distractor1": "Environmental stewardship",
+    "distractor2": "Habitat restoration",
+    "distractor3": "Composting",
+    "level": "Intermediate",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'a layer of ozone high up in Earth's atmosphere that absorbs most of the sun's ultraviolet (UV) radiation'?",
+    "answer": "Ozone layer",
+    "distractor1": "Conservation",
+    "distractor2": "Soil contamination",
+    "distractor3": "Solar power",
+    "level": "Intermediate",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'contamination of water bodies'?",
+    "answer": "Water pollution",
+    "distractor1": "Air quality",
+    "distractor2": "Pollution control",
+    "distractor3": "Sustainable practices",
+    "level": "Intermediate",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the responsible and careful management of natural resources and the environment for the benefit of current and future generations'?",
+    "answer": "Environmental stewardship",
+    "distractor1": "Carbon capture",
+    "distractor2": "Geothermal energy",
+    "distractor3": "Composting",
+    "level": "Intermediate",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the ongoing decrease in the pH of Earth's oceans due to the absorption of excess atmospheric carbon dioxide'?",
+    "answer": "Ocean acidification",
+    "distractor1": "Trophic cascade",
+    "distractor2": "Rewilding",
+    "distractor3": "Nature-based solutions",
+    "level": "Advanced",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'an approach to designing sustainable human settlements and agricultural systems that mimic the relationships found in natural ecologies'?",
+    "answer": "Permaculture design",
+    "distractor1": "Carbon offsetting",
+    "distractor2": "Anthropocene",
+    "distractor3": "Bioremediation",
+    "level": "Advanced",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the use of living organisms'?",
+    "answer": "Bioremediation",
+    "distractor1": "Agroforestry",
+    "distractor2": "Renewable energy transition",
+    "distractor3": "Ecological succession",
+    "level": "Advanced",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the use of diplomatic efforts and negotiations to address global climate change issues and secure international cooperation on climate agreements'?",
+    "answer": "Climate diplomacy",
+    "distractor1": "Corporate social responsibility (CSR)",
+    "distractor2": "Sustainable urban planning",
+    "distractor3": "Deep ecology",
+    "level": "Advanced",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'approaches to address environmental challenges by utilizing natural processes and ecosystems'?",
+    "answer": "Nature-based solutions",
+    "distractor1": "Climate resilience",
+    "distractor2": "Agroecology",
+    "distractor3": "Carbon neutrality",
+    "level": "Advanced",
+    "lessonTitle": "Nature and Environment"
+  }
+]

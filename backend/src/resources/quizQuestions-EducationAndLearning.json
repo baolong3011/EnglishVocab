@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What word means 'a person who imparts knowledge'?",
+    "answer": "Teacher",
+    "distractor1": "Ruler",
+    "distractor2": "Test",
+    "distractor3": "Answer",
+    "level": "Beginner",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a smooth, white surface used for writing with dry-erase markers'?",
+    "answer": "Whiteboard",
+    "distractor1": "Subject",
+    "distractor2": "Ruler",
+    "distractor3": "Schoolbag",
+    "level": "Beginner",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a bag with shoulder straps'?",
+    "answer": "Backpack",
+    "distractor1": "Map",
+    "distractor2": "Listen",
+    "distractor3": "Subject",
+    "level": "Beginner",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a reference book containing words'?",
+    "answer": "Dictionary",
+    "distractor1": "Geography",
+    "distractor2": "Teacher",
+    "distractor3": "Chalk",
+    "level": "Beginner",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'the expression or application of human creative skill and imagination'?",
+    "answer": "Art",
+    "distractor1": "Library",
+    "distractor2": "Teacher",
+    "distractor3": "Project",
+    "level": "Beginner",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a small group of students who meet to study and learn together'?",
+    "answer": "Study group",
+    "distractor1": "Online course",
+    "distractor2": "Time management",
+    "distractor3": "Learning curve",
+    "level": "Intermediate",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a person who pursues advanced knowledge in a particular field through study'?",
+    "answer": "Scholar",
+    "distractor1": "Critical reading",
+    "distractor2": "Problem-solving",
+    "distractor3": "Presentation skills",
+    "level": "Intermediate",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'the act of using someone else's work'?",
+    "answer": "Plagiarism",
+    "distractor1": "Mentor",
+    "distractor2": "Lecture",
+    "distractor3": "Self-directed learning",
+    "level": "Intermediate",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'specific statements describing what students should know or be able to do after completing a lesson or course'?",
+    "answer": "Learning objectives",
+    "distractor1": "Evaluate",
+    "distractor2": "Group discussion",
+    "distractor3": "Workshop",
+    "level": "Intermediate",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a visual representation technique that shows the relationships between concepts'?",
+    "answer": "Concept mapping",
+    "distractor1": "Thesis",
+    "distractor2": "Professor",
+    "distractor3": "Note-taking",
+    "level": "Intermediate",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'the study of how knowledge is acquired'?",
+    "answer": "Epistemology",
+    "distractor1": "Formative assessment",
+    "distractor2": "Mindful learning",
+    "distractor3": "E-portfolio",
+    "level": "Advanced",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a set of criteria or guidelines used to assess and evaluate student work'?",
+    "answer": "Rubric",
+    "distractor1": "Interdisciplinary",
+    "distractor2": "Open educational resources (OER)",
+    "distractor3": "Socratic method",
+    "level": "Advanced",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'the ability to engage and communicate effectively using various forms of communication and media'?",
+    "answer": "Multiliteracies",
+    "distractor1": "Bloom's Taxonomy",
+    "distractor2": "Augmented reality in education",
+    "distractor3": "Andragogy",
+    "level": "Advanced",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'the use of augmented reality technology to overlay digital content'?",
+    "answer": "Augmented reality in education",
+    "distractor1": "E-learning platforms",
+    "distractor2": "Competency-based education",
+    "distractor3": "Educational technology",
+    "level": "Advanced",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'small, focused credentials that validate a person's skills or knowledge in a specific area'?",
+    "answer": "Microcredentials",
+    "distractor1": "E-portfolio",
+    "distractor2": "Culturally responsive teaching",
+    "distractor3": "Gamification",
+    "level": "Advanced",
+    "lessonTitle": "Education and Learning"
+  }
+]

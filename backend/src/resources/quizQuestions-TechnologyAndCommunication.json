@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What word means 'a flat, portable device with a touchscreen interface'?",
+    "answer": "Tablet",
+    "distractor1": "Display",
+    "distractor2": "App",
+    "distractor3": "Software",
+    "level": "Beginner",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'a telephone conversation'?",
+    "answer": "Call",
+    "distractor1": "Backup",
+    "distractor2": "Upload",
+    "distractor3": "Email",
+    "level": "Beginner",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'to send or transfer data or files from a local device to a remote computer or server'?",
+    "answer": "Upload",
+    "distractor1": "Download",
+    "distractor2": "Online",
+    "distractor3": "Malware",
+    "level": "Beginner",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the physical components of a computer or electronic device'?",
+    "answer": "Hardware",
+    "distractor1": "Privacy",
+    "distractor2": "Password",
+    "distractor3": "Keyboard",
+    "level": "Beginner",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'connected to or available through the internet'?",
+    "answer": "Online",
+    "distractor1": "Chat",
+    "distractor2": "Download",
+    "distractor3": "Security",
+    "level": "Beginner",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'a simulated experience that can be similar to or completely different from the real world'?",
+    "answer": "Virtual reality",
+    "distractor1": "Artificial intelligence",
+    "distractor2": "Blog",
+    "distractor3": "Copyright",
+    "level": "Intermediate",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the visual elements and layout that users interact with on a device or software'?",
+    "answer": "User interface (UI)",
+    "distractor1": "Internet of Things (IoT)",
+    "distractor2": "Data privacy",
+    "distractor3": "Biometric authentication",
+    "level": "Intermediate",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'a regularly updated website or web page that provides informal'?",
+    "answer": "Blog",
+    "distractor1": "Cyberbullying",
+    "distractor2": "Fair use",
+    "distractor3": "Copyright",
+    "level": "Intermediate",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the practice of optimizing digital content to improve its visibility and ranking on search engine results pages'?",
+    "answer": "SEO (Search Engine Optimization)",
+    "distractor1": "Influencer",
+    "distractor2": "Phishing",
+    "distractor3": "Data privacy",
+    "level": "Intermediate",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the design and arrangement of digital products'?",
+    "answer": "Accessibility",
+    "distractor1": "Artificial intelligence",
+    "distractor2": "Remote work",
+    "distractor3": "Machine learning",
+    "level": "Intermediate",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the concept that data is subject to the laws and governance of the country where it is stored'?",
+    "answer": "Data sovereignty",
+    "distractor1": "Nanotechnology",
+    "distractor2": "Ransomware",
+    "distractor3": "Adaptive web design",
+    "level": "Advanced",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'self-executing contracts with the terms of the agreement directly written into code. They automatically execute and enforce the terms when predefined conditions are met'?",
+    "answer": "Smart contracts",
+    "distractor1": "Algorithmic trading",
+    "distractor2": "Data ethics",
+    "distractor3": "Cybersecurity threat vectors",
+    "level": "Advanced",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the collaborative process of creating software whose source code is made freely available and may be redistributed and modified'?",
+    "answer": "Open source software development",
+    "distractor1": "Virtual reality gaming",
+    "distractor2": "Nanotechnology",
+    "distractor3": "Data sovereignty",
+    "level": "Advanced",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the integration of game-like elements'?",
+    "answer": "Gamification",
+    "distractor1": "Technological singularity",
+    "distractor2": "Geofencing",
+    "distractor3": "Cryptocurrency mining",
+    "level": "Advanced",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'a process of creating three-dimensional objects from a digital file by adding material layer by layer'?",
+    "answer": "3D printing technology",
+    "distractor1": "Quantum computing",
+    "distractor2": "Disruptive technology",
+    "distractor3": "Gamification",
+    "level": "Advanced",
+    "lessonTitle": "Technology and Communication"
+  }
+]

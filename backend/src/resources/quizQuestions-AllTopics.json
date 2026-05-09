@@ -1,0 +1,1217 @@
+[
+  {
+    "question": "What word means 'the legal relationship between a person and a country to which they owe allegiance'?",
+    "answer": "Nationality",
+    "distractor1": "Passport",
+    "distractor2": "ID card",
+    "distractor3": "Eye color",
+    "level": "Beginner",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'brothers and sisters; individuals who share at least one parent'?",
+    "answer": "Siblings",
+    "distractor1": "ID card",
+    "distractor2": "Birthplace",
+    "distractor3": "Spouse",
+    "level": "Beginner",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'a set of beliefs and practices concerning the existence'?",
+    "answer": "Religion",
+    "distractor1": "Ethnicity",
+    "distractor2": "Children",
+    "distractor3": "Education",
+    "level": "Beginner",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'a small card or document that proves a person's identity and often includes personal information like name'?",
+    "answer": "ID card",
+    "distractor1": "Signature",
+    "distractor2": "Strengths",
+    "distractor3": "Occupation",
+    "level": "Beginner",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'deeply desired and often unrealistic or imaginative goals or wishes'?",
+    "answer": "Dreams",
+    "distractor1": "Skills",
+    "distractor2": "Age",
+    "distractor3": "Name",
+    "level": "Beginner",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'a fixed and lasting residential address'?",
+    "answer": "Permanent address",
+    "distractor1": "Mindfulness",
+    "distractor2": "Emotional intelligence",
+    "distractor3": "Critical thinking",
+    "level": "Intermediate",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'titles awarded by educational institutions to signify the completion of specific programs of study'?",
+    "answer": "Academic degrees",
+    "distractor1": "Ancestry",
+    "distractor2": "Introspection",
+    "distractor3": "Citizenship",
+    "level": "Intermediate",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'the capacity to analyze issues and find effective solutions'?",
+    "answer": "Problem-solving skills",
+    "distractor1": "Bilingual",
+    "distractor2": "Career path",
+    "distractor3": "Citizenship",
+    "level": "Intermediate",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'the ability to plan and use time effectively to accomplish tasks and goals'?",
+    "answer": "Time management",
+    "distractor1": "Accomplishments",
+    "distractor2": "Artistic interests",
+    "distractor3": "Permanent address",
+    "level": "Intermediate",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'the process of working on oneself to enhance skills'?",
+    "answer": "Self-improvement",
+    "distractor1": "Adaptability",
+    "distractor2": "Continuous learning",
+    "distractor3": "Work-life balance",
+    "level": "Intermediate",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'the ability to use one or more languages effectively and proficiently'?",
+    "answer": "Linguistic proficiency",
+    "distractor1": "Interpersonal dynamics",
+    "distractor2": "Ontological inquiries",
+    "distractor3": "Neurodiversity",
+    "level": "Advanced",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'creations of the mind'?",
+    "answer": "Intellectual property",
+    "distractor1": "Technological acumen",
+    "distractor2": "Systems thinking",
+    "distractor3": "Sustainable living",
+    "level": "Advanced",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'a sense of belonging and responsibility to the worldwide community'?",
+    "answer": "Global citizenship",
+    "distractor1": "Quantum consciousness",
+    "distractor2": "Literary criticism",
+    "distractor3": "Geopolitical insights",
+    "level": "Advanced",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'the complex interactions and relationships between individuals within a group or social context'?",
+    "answer": "Interpersonal dynamics",
+    "distractor1": "Socioeconomic strata",
+    "distractor2": "Transcendental experiences",
+    "distractor3": "Literary criticism",
+    "level": "Advanced",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'an approach to analyzing and interpreting texts'?",
+    "answer": "Postmodern deconstruction",
+    "distractor1": "Innovations",
+    "distractor2": "Curriculum vitae",
+    "distractor3": "Polyglot",
+    "level": "Advanced",
+    "lessonTitle": "Personal Information"
+  },
+  {
+    "question": "What word means 'a room where food is cooked and prepared'?",
+    "answer": "Kitchen",
+    "distractor1": "Heater",
+    "distractor2": "Living room",
+    "distractor3": "Dryer",
+    "level": "Beginner",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a flat, horizontal surface used for storing or displaying items'?",
+    "answer": "Shelf",
+    "distractor1": "Roof",
+    "distractor2": "Garden",
+    "distractor3": "Furniture",
+    "level": "Beginner",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'an elevated platform extending from a building'?",
+    "answer": "Balcony",
+    "distractor1": "Table",
+    "distractor2": "Floor",
+    "distractor3": "Apartment",
+    "level": "Beginner",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a kitchen appliance used for baking or roasting food'?",
+    "answer": "Oven",
+    "distractor1": "Ceiling",
+    "distractor2": "Bathroom",
+    "distractor3": "Sofa",
+    "level": "Beginner",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a cleaning tool with a handle and bristles used for sweeping floors'?",
+    "answer": "Broom",
+    "distractor1": "Door",
+    "distractor2": "Dining room",
+    "distractor3": "Table",
+    "level": "Beginner",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'the arrangement and selection of objects and elements to enhance the appearance of a room or space'?",
+    "answer": "Decor",
+    "distractor1": "Rural retreat",
+    "distractor2": "Counter",
+    "distractor3": "Solar panels",
+    "level": "Intermediate",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'small items or objects used to enhance the visual appeal of a room or space'?",
+    "answer": "Decorative accents",
+    "distractor1": "Suburb",
+    "distractor2": "Patio",
+    "distractor3": "Duplex",
+    "level": "Intermediate",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a room with glass walls and a roof'?",
+    "answer": "Conservatory",
+    "distractor1": "Urban living",
+    "distractor2": "Energy-efficient",
+    "distractor3": "Duplex",
+    "level": "Intermediate",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a residential area with controlled access'?",
+    "answer": "Gated community",
+    "distractor1": "Duplex",
+    "distractor2": "Cutlery",
+    "distractor3": "Wine cellar",
+    "level": "Intermediate",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'using less energy to perform the same tasks'?",
+    "answer": "Energy-efficient",
+    "distractor1": "Solar panels",
+    "distractor2": "Home automation",
+    "distractor3": "Home office",
+    "level": "Intermediate",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'furniture designed with consideration for the user's comfort'?",
+    "answer": "Ergonomic furnishings",
+    "distractor1": "Conscious consumerism in decor",
+    "distractor2": "Net-zero energy homes",
+    "distractor3": "Tiny homes movement",
+    "level": "Advanced",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'areas or rooms that serve multiple purposes and can adapt to different activities and needs'?",
+    "answer": "Multi-functional spaces",
+    "distractor1": "Historical preservation",
+    "distractor2": "Home automation integration",
+    "distractor3": "Augmented reality interior design",
+    "level": "Advanced",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'houses constructed using components manufactured off-site and then assembled on the building site'?",
+    "answer": "Prefabricated housing",
+    "distractor1": "Historical preservation",
+    "distractor2": "Aesthetics of imperfection (Wabi-sabi)",
+    "distractor3": "Biomimicry in architecture",
+    "level": "Advanced",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a Japanese concept valuing the beauty of the imperfect'?",
+    "answer": "Aesthetics of imperfection (Wabi-sabi)",
+    "distractor1": "Voice-controlled home systems",
+    "distractor2": "Co-living arrangements",
+    "distractor3": "Eclectic decor",
+    "level": "Advanced",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'design concepts and strategies that aim to restore'?",
+    "answer": "Regenerative design principles",
+    "distractor1": "Conscious consumerism in decor",
+    "distractor2": "Futuristic housing concepts",
+    "distractor3": "Renovation restoration",
+    "level": "Advanced",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a small portion of food eaten between regular meals'?",
+    "answer": "Snack",
+    "distractor1": "Soup",
+    "distractor2": "Cheese",
+    "distractor3": "Sandwich",
+    "level": "Beginner",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a white liquid produced by mammals'?",
+    "answer": "Milk",
+    "distractor1": "Soda",
+    "distractor2": "Pepper",
+    "distractor3": "Mustard",
+    "level": "Beginner",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'sweet and fleshy plant products that are often consumed for their flavor'?",
+    "answer": "Fruits",
+    "distractor1": "Pizza",
+    "distractor2": "Appetizer",
+    "distractor3": "Dessert",
+    "level": "Beginner",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a thick, tangy sauce made from tomatoes, vinegar, sugar, and spices'?",
+    "answer": "Ketchup",
+    "distractor1": "Fish",
+    "distractor2": "Bread",
+    "distractor3": "Vegetables",
+    "level": "Beginner",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a dairy product made from fermented milk'?",
+    "answer": "Yogurt",
+    "distractor1": "Appetizer",
+    "distractor2": "Eating",
+    "distractor3": "Food",
+    "level": "Beginner",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'capable of being maintained over the long term without harming the environment or depleting resources'?",
+    "answer": "Sustainable",
+    "distractor1": "Sour",
+    "distractor2": "Stir-frying",
+    "distractor3": "Savory",
+    "level": "Intermediate",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'eating a variety of foods in proportions that provide the nutrients your body needs'?",
+    "answer": "Balanced diet",
+    "distractor1": "Umami",
+    "distractor2": "Street food",
+    "distractor3": "Baking",
+    "level": "Intermediate",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'food that is prepared and served quickly'?",
+    "answer": "Fast food",
+    "distractor1": "Gluten-free",
+    "distractor2": "Organic",
+    "distractor3": "Plating presentation",
+    "level": "Intermediate",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'cooking food by exposing it directly to high heat'?",
+    "answer": "Broiling",
+    "distractor1": "Sweet",
+    "distractor2": "Balanced diet",
+    "distractor3": "Savory",
+    "level": "Intermediate",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'the sense of taste, often used to refer to a person's ability to distinguish and appreciate flavors'?",
+    "answer": "Palate",
+    "distractor1": "Gourmet",
+    "distractor2": "Plating presentation",
+    "distractor3": "Organic",
+    "level": "Intermediate",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a person who primarily seeks out locally produced food and avoids foods that have traveled long distances'?",
+    "answer": "Locavore",
+    "distractor1": "Artisanal",
+    "distractor2": "Terroir",
+    "distractor3": "Degustation",
+    "level": "Advanced",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a stable mixture of two immiscible liquids'?",
+    "answer": "Emulsion",
+    "distractor1": "Artisanal",
+    "distractor2": "Culinary diplomacy",
+    "distractor3": "Molecular mixology",
+    "level": "Advanced",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'an innovative approach to cocktail-making that uses scientific techniques and tools to create unique flavors and textures'?",
+    "answer": "Molecular mixology",
+    "distractor1": "Farm-to-fork movement",
+    "distractor2": "Food security",
+    "distractor3": "Sustainability in gastronomy",
+    "level": "Advanced",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'the blending of culinary arts and food science in the preparation of food products'?",
+    "answer": "Culinology",
+    "distractor1": "Culinary innovation",
+    "distractor2": "Supertaster",
+    "distractor3": "Slow food movement",
+    "level": "Advanced",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a cooking approach that aims to minimize food waste throughout the entire cooking process'?",
+    "answer": "Zero-waste cooking",
+    "distractor1": "Slow food movement",
+    "distractor2": "Deconstruction",
+    "distractor3": "Craft cocktails",
+    "level": "Advanced",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a place where aircraft regularly land and take off'?",
+    "answer": "Airport",
+    "distractor1": "Trip",
+    "distractor2": "Vacation",
+    "distractor3": "Boarding pass",
+    "level": "Beginner",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'an establishment that provides lodging and often meals and other services for travelers'?",
+    "answer": "Hotel",
+    "distractor1": "Flight",
+    "distractor2": "Backpack",
+    "distractor3": "Taxi",
+    "level": "Beginner",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a roadside hotel designed for travelers with parking spaces for motor vehicles'?",
+    "answer": "Motel",
+    "distractor1": "Tram",
+    "distractor2": "Taxi",
+    "distractor3": "Vacation",
+    "level": "Beginner",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a main road, often with multiple lanes and designed for high-speed traffic'?",
+    "answer": "Highway",
+    "distractor1": "Bathroom",
+    "distractor2": "Hostel",
+    "distractor3": "Travel",
+    "level": "Beginner",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a keepsake or item purchased as a reminder of a place or event visited'?",
+    "answer": "Souvenir",
+    "distractor1": "Traffic",
+    "distractor2": "Check-in",
+    "distractor3": "Hostel",
+    "level": "Beginner",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'traveling with only a backpack'?",
+    "answer": "Backpacking",
+    "distractor1": "Layover",
+    "distractor2": "Bus stop",
+    "distractor3": "Hotel reservation",
+    "level": "Intermediate",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'an area in an airport where passengers wait before their flight'?",
+    "answer": "Departure lounge",
+    "distractor1": "Cultural heritage",
+    "distractor2": "Baggage claim",
+    "distractor3": "Subway map",
+    "level": "Intermediate",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a booking made in advance for accommodations at a hotel'?",
+    "answer": "Hotel reservation",
+    "distractor1": "Train station",
+    "distractor2": "Self-guided tour",
+    "distractor3": "Bus stop",
+    "level": "Intermediate",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a diagrammatic representation of a subway or metro system's routes and stations'?",
+    "answer": "Subway map",
+    "distractor1": "Guided tour",
+    "distractor2": "Boarding gate",
+    "distractor3": "Turbulence",
+    "level": "Intermediate",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a tour in which individuals explore a place on their own'?",
+    "answer": "Self-guided tour",
+    "distractor1": "Car rental agency",
+    "distractor2": "Land transportation",
+    "distractor3": "Rush hour",
+    "level": "Intermediate",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'the practice of combining tourism with volunteering'?",
+    "answer": "Voluntourism",
+    "distractor1": "Dark tourism",
+    "distractor2": "Hyperloop transportation",
+    "distractor3": "Ecological footprint",
+    "level": "Advanced",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'the controversial act of taking and using elements of another culture by tourists without proper understanding or respect'?",
+    "answer": "Cultural appropriation in tourism",
+    "distractor1": "Jet lag",
+    "distractor2": "Space tourism",
+    "distractor3": "Interrail pass",
+    "level": "Advanced",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'an excessive number of tourists visiting a destination'?",
+    "answer": "Overtourism",
+    "distractor1": "Zero-gravity experiences",
+    "distractor2": "Remote work while traveling",
+    "distractor3": "Voluntourism",
+    "level": "Advanced",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'tourism involving travel to outer space for recreational'?",
+    "answer": "Astral tourism",
+    "distractor1": "Off-the-beaten-path destinations",
+    "distractor2": "Ride-sharing services",
+    "distractor3": "Carbon offset",
+    "level": "Advanced",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'laws and guidelines that govern the operation of short-term rentals and accommodations through platforms like Airbnb'?",
+    "answer": "Airbnb regulations",
+    "distractor1": "Dark tourism",
+    "distractor2": "Adventure sports tourism",
+    "distractor3": "Astral tourism",
+    "level": "Advanced",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'the process of providing or obtaining the food necessary for health and growth'?",
+    "answer": "Nutrition",
+    "distractor1": "Fats",
+    "distractor2": "Weight",
+    "distractor3": "Minerals",
+    "level": "Beginner",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'a practice of focused attention or mindfulness to achieve mental clarity and relaxation'?",
+    "answer": "Meditation",
+    "distractor1": "Lunch",
+    "distractor2": "Prescription",
+    "distractor3": "First aid",
+    "level": "Beginner",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'necessary for energy, insulation, and protection of organs'?",
+    "answer": "Fats",
+    "distractor1": "Healthy",
+    "distractor2": "Water",
+    "distractor3": "Balanced",
+    "level": "Beginner",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'the measure of how heavy something is'?",
+    "answer": "Weight",
+    "distractor1": "Allergies",
+    "distractor2": "Hydration",
+    "distractor3": "Vitamins",
+    "level": "Beginner",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'a mild viral infection of the nose and throat'?",
+    "answer": "Cold",
+    "distractor1": "Dinner",
+    "distractor2": "Weight",
+    "distractor3": "Pain",
+    "level": "Beginner",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'actions and practices individuals engage in to promote their physical'?",
+    "answer": "Self-care",
+    "distractor1": "Wellness routine",
+    "distractor2": "Work-life balance",
+    "distractor3": "Naturopathy",
+    "level": "Intermediate",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'a diet that provides all the essential nutrients in appropriate proportions for overall health'?",
+    "answer": "Balanced diet",
+    "distractor1": "Sleep hygiene",
+    "distractor2": "Nutrient-rich foods",
+    "distractor3": "Strength training",
+    "level": "Intermediate",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'methods or practices used to induce a state of relaxation and reduce stress'?",
+    "answer": "Relaxation techniques",
+    "distractor1": "Hydration",
+    "distractor2": "Breathing exercises",
+    "distractor3": "Sleep hygiene",
+    "level": "Intermediate",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'medical or healing practices that fall outside the realm of conventional medicine'?",
+    "answer": "Alternative therapies",
+    "distractor1": "Acupuncture",
+    "distractor2": "Stress management",
+    "distractor3": "Core strength",
+    "level": "Intermediate",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'the process of removing toxins or harmful substances from the body'?",
+    "answer": "Detoxification",
+    "distractor1": "Sleep cycle",
+    "distractor2": "Mental clarity",
+    "distractor3": "Relaxation techniques",
+    "level": "Intermediate",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'a personalized, systems-oriented approach to healthcare that focuses on identifying and addressing the root causes of illness'?",
+    "answer": "Functional medicine",
+    "distractor1": "Metabolic health",
+    "distractor2": "Transcendental meditation",
+    "distractor3": "Biohacking",
+    "level": "Advanced",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'a structured program that incorporates mindfulness meditation to help individuals manage stress'?",
+    "answer": "Mindfulness-based stress reduction",
+    "distractor1": "Telomeres",
+    "distractor2": "Biomechanics",
+    "distractor3": "Integrative medicine",
+    "level": "Advanced",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'muscle-strengthening exercises in which the muscles contract without significant movement of the joints'?",
+    "answer": "Isometric exercises",
+    "distractor1": "Epigenetic factors",
+    "distractor2": "Integrative medicine",
+    "distractor3": "Positive psychology",
+    "level": "Advanced",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'foods that offer additional health benefits beyond basic nutrition due to specific bioactive compounds they contain'?",
+    "answer": "Functional foods",
+    "distractor1": "Mindfulness-based stress reduction",
+    "distractor2": "Orthomolecular nutrition",
+    "distractor3": "Mitochondrial health",
+    "level": "Advanced",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'devices worn as accessories or implants that monitor and collect health-related data'?",
+    "answer": "Wearable health technology",
+    "distractor1": "Digital therapeutics",
+    "distractor2": "Positive psychology",
+    "distractor3": "Hypnotherapy",
+    "level": "Advanced",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'a place where administrative'?",
+    "answer": "Office",
+    "distractor1": "Wage",
+    "distractor2": "Interview",
+    "distractor3": "Promotion",
+    "level": "Beginner",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'a fixed regular payment'?",
+    "answer": "Salary",
+    "distractor1": "Cover letter",
+    "distractor2": "Interview",
+    "distractor3": "Training",
+    "level": "Beginner",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the process of teaching or learning a skill or profession'?",
+    "answer": "Training",
+    "distractor1": "Creativity",
+    "distractor2": "Shift",
+    "distractor3": "Wage",
+    "level": "Beginner",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'working from a location outside of the office'?",
+    "answer": "Remote work",
+    "distractor1": "Permanent",
+    "distractor2": "Wage",
+    "distractor3": "Part-time",
+    "level": "Beginner",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the physical area where a person works'?",
+    "answer": "Workspace",
+    "distractor1": "Application",
+    "distractor2": "Temporary",
+    "distractor3": "Shift",
+    "level": "Beginner",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the process of focusing on a specific area of knowledge or skill within a broader field'?",
+    "answer": "Specialization",
+    "distractor1": "Freelance",
+    "distractor2": "Negotiation",
+    "distractor3": "Retirement",
+    "level": "Intermediate",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the process of addressing and finding solutions to disagreements or disputes'?",
+    "answer": "Conflict resolution",
+    "distractor1": "Sales",
+    "distractor2": "Diversity and inclusion",
+    "distractor3": "Performance review",
+    "level": "Intermediate",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'a formal document outlining the goals'?",
+    "answer": "Business plan",
+    "distractor1": "Benefits",
+    "distractor2": "Sales",
+    "distractor3": "Innovation",
+    "level": "Intermediate",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the process of planning'?",
+    "answer": "Project management",
+    "distractor1": "Job satisfaction",
+    "distractor2": "Supervisor",
+    "distractor3": "Freelance",
+    "level": "Intermediate",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'initiatives implemented by employers to promote the well-being and health of their employees'?",
+    "answer": "Wellness programs",
+    "distractor1": "Work-life balance",
+    "distractor2": "Collaboration",
+    "distractor3": "Sales",
+    "level": "Intermediate",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the structured approach to transitioning individuals'?",
+    "answer": "Change management",
+    "distractor1": "Stakeholder management",
+    "distractor2": "Cybersecurity",
+    "distractor3": "Talent acquisition",
+    "level": "Advanced",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'a set of principles and practices aimed at maximizing value while minimizing waste in processes and operations'?",
+    "answer": "Lean principles",
+    "distractor1": "Machine learning",
+    "distractor2": "Initial public offering (IPO)",
+    "distractor3": "Artificial intelligence",
+    "level": "Advanced",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'a labor market characterized by short-term or freelance work engagements'?",
+    "answer": "Gig economy",
+    "distractor1": "Organizational development",
+    "distractor2": "Employee engagement",
+    "distractor3": "Succession planning",
+    "level": "Advanced",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'exclusive rights granted to inventors for a certain period'?",
+    "answer": "Patents",
+    "distractor1": "Artificial intelligence",
+    "distractor2": "Mergers and acquisitions",
+    "distractor3": "Cybersecurity",
+    "level": "Advanced",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the efforts made by an organization to retain skilled and valuable employees'?",
+    "answer": "Talent retention",
+    "distractor1": "Intrapreneurship",
+    "distractor2": "Initial public offering (IPO)",
+    "distractor3": "Corporate social responsibility",
+    "level": "Advanced",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'a person who imparts knowledge'?",
+    "answer": "Teacher",
+    "distractor1": "Ruler",
+    "distractor2": "Test",
+    "distractor3": "Answer",
+    "level": "Beginner",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a smooth, white surface used for writing with dry-erase markers'?",
+    "answer": "Whiteboard",
+    "distractor1": "Subject",
+    "distractor2": "Ruler",
+    "distractor3": "Schoolbag",
+    "level": "Beginner",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a bag with shoulder straps'?",
+    "answer": "Backpack",
+    "distractor1": "Map",
+    "distractor2": "Listen",
+    "distractor3": "Subject",
+    "level": "Beginner",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a reference book containing words'?",
+    "answer": "Dictionary",
+    "distractor1": "Geography",
+    "distractor2": "Teacher",
+    "distractor3": "Chalk",
+    "level": "Beginner",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'the expression or application of human creative skill and imagination'?",
+    "answer": "Art",
+    "distractor1": "Library",
+    "distractor2": "Teacher",
+    "distractor3": "Project",
+    "level": "Beginner",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a small group of students who meet to study and learn together'?",
+    "answer": "Study group",
+    "distractor1": "Online course",
+    "distractor2": "Time management",
+    "distractor3": "Learning curve",
+    "level": "Intermediate",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a person who pursues advanced knowledge in a particular field through study'?",
+    "answer": "Scholar",
+    "distractor1": "Critical reading",
+    "distractor2": "Problem-solving",
+    "distractor3": "Presentation skills",
+    "level": "Intermediate",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'the act of using someone else's work'?",
+    "answer": "Plagiarism",
+    "distractor1": "Mentor",
+    "distractor2": "Lecture",
+    "distractor3": "Self-directed learning",
+    "level": "Intermediate",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'specific statements describing what students should know or be able to do after completing a lesson or course'?",
+    "answer": "Learning objectives",
+    "distractor1": "Evaluate",
+    "distractor2": "Group discussion",
+    "distractor3": "Workshop",
+    "level": "Intermediate",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a visual representation technique that shows the relationships between concepts'?",
+    "answer": "Concept mapping",
+    "distractor1": "Thesis",
+    "distractor2": "Professor",
+    "distractor3": "Note-taking",
+    "level": "Intermediate",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'the study of how knowledge is acquired'?",
+    "answer": "Epistemology",
+    "distractor1": "Formative assessment",
+    "distractor2": "Mindful learning",
+    "distractor3": "E-portfolio",
+    "level": "Advanced",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a set of criteria or guidelines used to assess and evaluate student work'?",
+    "answer": "Rubric",
+    "distractor1": "Interdisciplinary",
+    "distractor2": "Open educational resources (OER)",
+    "distractor3": "Socratic method",
+    "level": "Advanced",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'the ability to engage and communicate effectively using various forms of communication and media'?",
+    "answer": "Multiliteracies",
+    "distractor1": "Bloom's Taxonomy",
+    "distractor2": "Augmented reality in education",
+    "distractor3": "Andragogy",
+    "level": "Advanced",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'the use of augmented reality technology to overlay digital content'?",
+    "answer": "Augmented reality in education",
+    "distractor1": "E-learning platforms",
+    "distractor2": "Competency-based education",
+    "distractor3": "Educational technology",
+    "level": "Advanced",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'small, focused credentials that validate a person's skills or knowledge in a specific area'?",
+    "answer": "Microcredentials",
+    "distractor1": "E-portfolio",
+    "distractor2": "Culturally responsive teaching",
+    "distractor3": "Gamification",
+    "level": "Advanced",
+    "lessonTitle": "Education and Learning"
+  },
+  {
+    "question": "What word means 'a colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms'?",
+    "answer": "Water",
+    "distractor1": "Habitat",
+    "distractor2": "Ecosystem",
+    "distractor3": "Insect",
+    "level": "Beginner",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the star at the center of the solar system'?",
+    "answer": "Sun",
+    "distractor1": "Endangered species",
+    "distractor2": "Planet",
+    "distractor3": "Season",
+    "level": "Beginner",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the warmest season of the year'?",
+    "answer": "Summer",
+    "distractor1": "Forest",
+    "distractor2": "Planet",
+    "distractor3": "Flower",
+    "level": "Beginner",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the top layer of the Earth's surface'?",
+    "answer": "Soil",
+    "distractor1": "Cloud",
+    "distractor2": "Season",
+    "distractor3": "River",
+    "level": "Beginner",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'organisms that are at risk of becoming extinct due to low population numbers and threats to their survival'?",
+    "answer": "Endangered species",
+    "distractor1": "Ecosystem",
+    "distractor2": "Ocean",
+    "distractor3": "Wind",
+    "level": "Beginner",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'a dense, tropical forest characterized by heavy rainfall and a variety of plant and animal species'?",
+    "answer": "Rainforest",
+    "distractor1": "Soil contamination",
+    "distractor2": "Habitat restoration",
+    "distractor3": "Ecotourism",
+    "level": "Intermediate",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'energy derived from sources that are naturally replenished'?",
+    "answer": "Renewable energy sources",
+    "distractor1": "Environmental stewardship",
+    "distractor2": "Habitat restoration",
+    "distractor3": "Composting",
+    "level": "Intermediate",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'a layer of ozone high up in Earth's atmosphere that absorbs most of the sun's ultraviolet (UV) radiation'?",
+    "answer": "Ozone layer",
+    "distractor1": "Conservation",
+    "distractor2": "Soil contamination",
+    "distractor3": "Solar power",
+    "level": "Intermediate",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'contamination of water bodies'?",
+    "answer": "Water pollution",
+    "distractor1": "Air quality",
+    "distractor2": "Pollution control",
+    "distractor3": "Sustainable practices",
+    "level": "Intermediate",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the responsible and careful management of natural resources and the environment for the benefit of current and future generations'?",
+    "answer": "Environmental stewardship",
+    "distractor1": "Carbon capture",
+    "distractor2": "Geothermal energy",
+    "distractor3": "Composting",
+    "level": "Intermediate",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the ongoing decrease in the pH of Earth's oceans due to the absorption of excess atmospheric carbon dioxide'?",
+    "answer": "Ocean acidification",
+    "distractor1": "Trophic cascade",
+    "distractor2": "Rewilding",
+    "distractor3": "Nature-based solutions",
+    "level": "Advanced",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'an approach to designing sustainable human settlements and agricultural systems that mimic the relationships found in natural ecologies'?",
+    "answer": "Permaculture design",
+    "distractor1": "Carbon offsetting",
+    "distractor2": "Anthropocene",
+    "distractor3": "Bioremediation",
+    "level": "Advanced",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the use of living organisms'?",
+    "answer": "Bioremediation",
+    "distractor1": "Agroforestry",
+    "distractor2": "Renewable energy transition",
+    "distractor3": "Ecological succession",
+    "level": "Advanced",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'the use of diplomatic efforts and negotiations to address global climate change issues and secure international cooperation on climate agreements'?",
+    "answer": "Climate diplomacy",
+    "distractor1": "Corporate social responsibility (CSR)",
+    "distractor2": "Sustainable urban planning",
+    "distractor3": "Deep ecology",
+    "level": "Advanced",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'approaches to address environmental challenges by utilizing natural processes and ecosystems'?",
+    "answer": "Nature-based solutions",
+    "distractor1": "Climate resilience",
+    "distractor2": "Agroecology",
+    "distractor3": "Carbon neutrality",
+    "level": "Advanced",
+    "lessonTitle": "Nature and Environment"
+  },
+  {
+    "question": "What word means 'a flat, portable device with a touchscreen interface'?",
+    "answer": "Tablet",
+    "distractor1": "Display",
+    "distractor2": "App",
+    "distractor3": "Software",
+    "level": "Beginner",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'a telephone conversation'?",
+    "answer": "Call",
+    "distractor1": "Backup",
+    "distractor2": "Upload",
+    "distractor3": "Email",
+    "level": "Beginner",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'to send or transfer data or files from a local device to a remote computer or server'?",
+    "answer": "Upload",
+    "distractor1": "Download",
+    "distractor2": "Online",
+    "distractor3": "Malware",
+    "level": "Beginner",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the physical components of a computer or electronic device'?",
+    "answer": "Hardware",
+    "distractor1": "Privacy",
+    "distractor2": "Password",
+    "distractor3": "Keyboard",
+    "level": "Beginner",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'connected to or available through the internet'?",
+    "answer": "Online",
+    "distractor1": "Chat",
+    "distractor2": "Download",
+    "distractor3": "Security",
+    "level": "Beginner",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'a simulated experience that can be similar to or completely different from the real world'?",
+    "answer": "Virtual reality",
+    "distractor1": "Artificial intelligence",
+    "distractor2": "Blog",
+    "distractor3": "Copyright",
+    "level": "Intermediate",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the visual elements and layout that users interact with on a device or software'?",
+    "answer": "User interface (UI)",
+    "distractor1": "Internet of Things (IoT)",
+    "distractor2": "Data privacy",
+    "distractor3": "Biometric authentication",
+    "level": "Intermediate",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'a regularly updated website or web page that provides informal'?",
+    "answer": "Blog",
+    "distractor1": "Cyberbullying",
+    "distractor2": "Fair use",
+    "distractor3": "Copyright",
+    "level": "Intermediate",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the practice of optimizing digital content to improve its visibility and ranking on search engine results pages'?",
+    "answer": "SEO (Search Engine Optimization)",
+    "distractor1": "Influencer",
+    "distractor2": "Phishing",
+    "distractor3": "Data privacy",
+    "level": "Intermediate",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the design and arrangement of digital products'?",
+    "answer": "Accessibility",
+    "distractor1": "Artificial intelligence",
+    "distractor2": "Remote work",
+    "distractor3": "Machine learning",
+    "level": "Intermediate",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the concept that data is subject to the laws and governance of the country where it is stored'?",
+    "answer": "Data sovereignty",
+    "distractor1": "Nanotechnology",
+    "distractor2": "Ransomware",
+    "distractor3": "Adaptive web design",
+    "level": "Advanced",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'self-executing contracts with the terms of the agreement directly written into code. They automatically execute and enforce the terms when predefined conditions are met'?",
+    "answer": "Smart contracts",
+    "distractor1": "Algorithmic trading",
+    "distractor2": "Data ethics",
+    "distractor3": "Cybersecurity threat vectors",
+    "level": "Advanced",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the collaborative process of creating software whose source code is made freely available and may be redistributed and modified'?",
+    "answer": "Open source software development",
+    "distractor1": "Virtual reality gaming",
+    "distractor2": "Nanotechnology",
+    "distractor3": "Data sovereignty",
+    "level": "Advanced",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'the integration of game-like elements'?",
+    "answer": "Gamification",
+    "distractor1": "Technological singularity",
+    "distractor2": "Geofencing",
+    "distractor3": "Cryptocurrency mining",
+    "level": "Advanced",
+    "lessonTitle": "Technology and Communication"
+  },
+  {
+    "question": "What word means 'a process of creating three-dimensional objects from a digital file by adding material layer by layer'?",
+    "answer": "3D printing technology",
+    "distractor1": "Quantum computing",
+    "distractor2": "Disruptive technology",
+    "distractor3": "Gamification",
+    "level": "Advanced",
+    "lessonTitle": "Technology and Communication"
+  }
+]

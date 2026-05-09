@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What word means 'the process of providing or obtaining the food necessary for health and growth'?",
+    "answer": "Nutrition",
+    "distractor1": "Fats",
+    "distractor2": "Weight",
+    "distractor3": "Minerals",
+    "level": "Beginner",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'a practice of focused attention or mindfulness to achieve mental clarity and relaxation'?",
+    "answer": "Meditation",
+    "distractor1": "Lunch",
+    "distractor2": "Prescription",
+    "distractor3": "First aid",
+    "level": "Beginner",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'necessary for energy, insulation, and protection of organs'?",
+    "answer": "Fats",
+    "distractor1": "Healthy",
+    "distractor2": "Water",
+    "distractor3": "Balanced",
+    "level": "Beginner",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'the measure of how heavy something is'?",
+    "answer": "Weight",
+    "distractor1": "Allergies",
+    "distractor2": "Hydration",
+    "distractor3": "Vitamins",
+    "level": "Beginner",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'a mild viral infection of the nose and throat'?",
+    "answer": "Cold",
+    "distractor1": "Dinner",
+    "distractor2": "Weight",
+    "distractor3": "Pain",
+    "level": "Beginner",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'actions and practices individuals engage in to promote their physical'?",
+    "answer": "Self-care",
+    "distractor1": "Wellness routine",
+    "distractor2": "Work-life balance",
+    "distractor3": "Naturopathy",
+    "level": "Intermediate",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'a diet that provides all the essential nutrients in appropriate proportions for overall health'?",
+    "answer": "Balanced diet",
+    "distractor1": "Sleep hygiene",
+    "distractor2": "Nutrient-rich foods",
+    "distractor3": "Strength training",
+    "level": "Intermediate",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'methods or practices used to induce a state of relaxation and reduce stress'?",
+    "answer": "Relaxation techniques",
+    "distractor1": "Hydration",
+    "distractor2": "Breathing exercises",
+    "distractor3": "Sleep hygiene",
+    "level": "Intermediate",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'medical or healing practices that fall outside the realm of conventional medicine'?",
+    "answer": "Alternative therapies",
+    "distractor1": "Acupuncture",
+    "distractor2": "Stress management",
+    "distractor3": "Core strength",
+    "level": "Intermediate",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'the process of removing toxins or harmful substances from the body'?",
+    "answer": "Detoxification",
+    "distractor1": "Sleep cycle",
+    "distractor2": "Mental clarity",
+    "distractor3": "Relaxation techniques",
+    "level": "Intermediate",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'a personalized, systems-oriented approach to healthcare that focuses on identifying and addressing the root causes of illness'?",
+    "answer": "Functional medicine",
+    "distractor1": "Metabolic health",
+    "distractor2": "Transcendental meditation",
+    "distractor3": "Biohacking",
+    "level": "Advanced",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'a structured program that incorporates mindfulness meditation to help individuals manage stress'?",
+    "answer": "Mindfulness-based stress reduction",
+    "distractor1": "Telomeres",
+    "distractor2": "Biomechanics",
+    "distractor3": "Integrative medicine",
+    "level": "Advanced",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'muscle-strengthening exercises in which the muscles contract without significant movement of the joints'?",
+    "answer": "Isometric exercises",
+    "distractor1": "Epigenetic factors",
+    "distractor2": "Integrative medicine",
+    "distractor3": "Positive psychology",
+    "level": "Advanced",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'foods that offer additional health benefits beyond basic nutrition due to specific bioactive compounds they contain'?",
+    "answer": "Functional foods",
+    "distractor1": "Mindfulness-based stress reduction",
+    "distractor2": "Orthomolecular nutrition",
+    "distractor3": "Mitochondrial health",
+    "level": "Advanced",
+    "lessonTitle": "Health and Wellness"
+  },
+  {
+    "question": "What word means 'devices worn as accessories or implants that monitor and collect health-related data'?",
+    "answer": "Wearable health technology",
+    "distractor1": "Digital therapeutics",
+    "distractor2": "Positive psychology",
+    "distractor3": "Hypnotherapy",
+    "level": "Advanced",
+    "lessonTitle": "Health and Wellness"
+  }
+]

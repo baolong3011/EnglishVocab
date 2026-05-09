@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "EnglishVocab",
+    "slug": "englishvocab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon2.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/splash1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3988FF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.englishvocab.app",
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2ebc0bcf-6bb3-4a6d-8ecc-5ac81364feda"
+      }
+    },
+    "owner": "tiino1111"
+  }
+}

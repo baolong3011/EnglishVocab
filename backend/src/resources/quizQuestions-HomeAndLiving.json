@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What word means 'a room where food is cooked and prepared'?",
+    "answer": "Kitchen",
+    "distractor1": "Heater",
+    "distractor2": "Living room",
+    "distractor3": "Dryer",
+    "level": "Beginner",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a flat, horizontal surface used for storing or displaying items'?",
+    "answer": "Shelf",
+    "distractor1": "Roof",
+    "distractor2": "Garden",
+    "distractor3": "Furniture",
+    "level": "Beginner",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'an elevated platform extending from a building'?",
+    "answer": "Balcony",
+    "distractor1": "Table",
+    "distractor2": "Floor",
+    "distractor3": "Apartment",
+    "level": "Beginner",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a kitchen appliance used for baking or roasting food'?",
+    "answer": "Oven",
+    "distractor1": "Ceiling",
+    "distractor2": "Bathroom",
+    "distractor3": "Sofa",
+    "level": "Beginner",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a cleaning tool with a handle and bristles used for sweeping floors'?",
+    "answer": "Broom",
+    "distractor1": "Door",
+    "distractor2": "Dining room",
+    "distractor3": "Table",
+    "level": "Beginner",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'the arrangement and selection of objects and elements to enhance the appearance of a room or space'?",
+    "answer": "Decor",
+    "distractor1": "Rural retreat",
+    "distractor2": "Counter",
+    "distractor3": "Solar panels",
+    "level": "Intermediate",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'small items or objects used to enhance the visual appeal of a room or space'?",
+    "answer": "Decorative accents",
+    "distractor1": "Suburb",
+    "distractor2": "Patio",
+    "distractor3": "Duplex",
+    "level": "Intermediate",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a room with glass walls and a roof'?",
+    "answer": "Conservatory",
+    "distractor1": "Urban living",
+    "distractor2": "Energy-efficient",
+    "distractor3": "Duplex",
+    "level": "Intermediate",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a residential area with controlled access'?",
+    "answer": "Gated community",
+    "distractor1": "Duplex",
+    "distractor2": "Cutlery",
+    "distractor3": "Wine cellar",
+    "level": "Intermediate",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'using less energy to perform the same tasks'?",
+    "answer": "Energy-efficient",
+    "distractor1": "Solar panels",
+    "distractor2": "Home automation",
+    "distractor3": "Home office",
+    "level": "Intermediate",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'furniture designed with consideration for the user's comfort'?",
+    "answer": "Ergonomic furnishings",
+    "distractor1": "Conscious consumerism in decor",
+    "distractor2": "Net-zero energy homes",
+    "distractor3": "Tiny homes movement",
+    "level": "Advanced",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'areas or rooms that serve multiple purposes and can adapt to different activities and needs'?",
+    "answer": "Multi-functional spaces",
+    "distractor1": "Historical preservation",
+    "distractor2": "Home automation integration",
+    "distractor3": "Augmented reality interior design",
+    "level": "Advanced",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'houses constructed using components manufactured off-site and then assembled on the building site'?",
+    "answer": "Prefabricated housing",
+    "distractor1": "Historical preservation",
+    "distractor2": "Aesthetics of imperfection (Wabi-sabi)",
+    "distractor3": "Biomimicry in architecture",
+    "level": "Advanced",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'a Japanese concept valuing the beauty of the imperfect'?",
+    "answer": "Aesthetics of imperfection (Wabi-sabi)",
+    "distractor1": "Voice-controlled home systems",
+    "distractor2": "Co-living arrangements",
+    "distractor3": "Eclectic decor",
+    "level": "Advanced",
+    "lessonTitle": "Home and Living"
+  },
+  {
+    "question": "What word means 'design concepts and strategies that aim to restore'?",
+    "answer": "Regenerative design principles",
+    "distractor1": "Conscious consumerism in decor",
+    "distractor2": "Futuristic housing concepts",
+    "distractor3": "Renovation restoration",
+    "level": "Advanced",
+    "lessonTitle": "Home and Living"
+  }
+]

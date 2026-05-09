@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What word means 'a place where administrative'?",
+    "answer": "Office",
+    "distractor1": "Wage",
+    "distractor2": "Interview",
+    "distractor3": "Promotion",
+    "level": "Beginner",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'a fixed regular payment'?",
+    "answer": "Salary",
+    "distractor1": "Cover letter",
+    "distractor2": "Interview",
+    "distractor3": "Training",
+    "level": "Beginner",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the process of teaching or learning a skill or profession'?",
+    "answer": "Training",
+    "distractor1": "Creativity",
+    "distractor2": "Shift",
+    "distractor3": "Wage",
+    "level": "Beginner",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'working from a location outside of the office'?",
+    "answer": "Remote work",
+    "distractor1": "Permanent",
+    "distractor2": "Wage",
+    "distractor3": "Part-time",
+    "level": "Beginner",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the physical area where a person works'?",
+    "answer": "Workspace",
+    "distractor1": "Application",
+    "distractor2": "Temporary",
+    "distractor3": "Shift",
+    "level": "Beginner",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the process of focusing on a specific area of knowledge or skill within a broader field'?",
+    "answer": "Specialization",
+    "distractor1": "Freelance",
+    "distractor2": "Negotiation",
+    "distractor3": "Retirement",
+    "level": "Intermediate",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the process of addressing and finding solutions to disagreements or disputes'?",
+    "answer": "Conflict resolution",
+    "distractor1": "Sales",
+    "distractor2": "Diversity and inclusion",
+    "distractor3": "Performance review",
+    "level": "Intermediate",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'a formal document outlining the goals'?",
+    "answer": "Business plan",
+    "distractor1": "Benefits",
+    "distractor2": "Sales",
+    "distractor3": "Innovation",
+    "level": "Intermediate",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the process of planning'?",
+    "answer": "Project management",
+    "distractor1": "Job satisfaction",
+    "distractor2": "Supervisor",
+    "distractor3": "Freelance",
+    "level": "Intermediate",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'initiatives implemented by employers to promote the well-being and health of their employees'?",
+    "answer": "Wellness programs",
+    "distractor1": "Work-life balance",
+    "distractor2": "Collaboration",
+    "distractor3": "Sales",
+    "level": "Intermediate",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the structured approach to transitioning individuals'?",
+    "answer": "Change management",
+    "distractor1": "Stakeholder management",
+    "distractor2": "Cybersecurity",
+    "distractor3": "Talent acquisition",
+    "level": "Advanced",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'a set of principles and practices aimed at maximizing value while minimizing waste in processes and operations'?",
+    "answer": "Lean principles",
+    "distractor1": "Machine learning",
+    "distractor2": "Initial public offering (IPO)",
+    "distractor3": "Artificial intelligence",
+    "level": "Advanced",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'a labor market characterized by short-term or freelance work engagements'?",
+    "answer": "Gig economy",
+    "distractor1": "Organizational development",
+    "distractor2": "Employee engagement",
+    "distractor3": "Succession planning",
+    "level": "Advanced",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'exclusive rights granted to inventors for a certain period'?",
+    "answer": "Patents",
+    "distractor1": "Artificial intelligence",
+    "distractor2": "Mergers and acquisitions",
+    "distractor3": "Cybersecurity",
+    "level": "Advanced",
+    "lessonTitle": "Work and Careers"
+  },
+  {
+    "question": "What word means 'the efforts made by an organization to retain skilled and valuable employees'?",
+    "answer": "Talent retention",
+    "distractor1": "Intrapreneurship",
+    "distractor2": "Initial public offering (IPO)",
+    "distractor3": "Corporate social responsibility",
+    "level": "Advanced",
+    "lessonTitle": "Work and Careers"
+  }
+]

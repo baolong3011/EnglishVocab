@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What word means 'a place where aircraft regularly land and take off'?",
+    "answer": "Airport",
+    "distractor1": "Trip",
+    "distractor2": "Vacation",
+    "distractor3": "Boarding pass",
+    "level": "Beginner",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'an establishment that provides lodging and often meals and other services for travelers'?",
+    "answer": "Hotel",
+    "distractor1": "Flight",
+    "distractor2": "Backpack",
+    "distractor3": "Taxi",
+    "level": "Beginner",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a roadside hotel designed for travelers with parking spaces for motor vehicles'?",
+    "answer": "Motel",
+    "distractor1": "Tram",
+    "distractor2": "Taxi",
+    "distractor3": "Vacation",
+    "level": "Beginner",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a main road, often with multiple lanes and designed for high-speed traffic'?",
+    "answer": "Highway",
+    "distractor1": "Bathroom",
+    "distractor2": "Hostel",
+    "distractor3": "Travel",
+    "level": "Beginner",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a keepsake or item purchased as a reminder of a place or event visited'?",
+    "answer": "Souvenir",
+    "distractor1": "Traffic",
+    "distractor2": "Check-in",
+    "distractor3": "Hostel",
+    "level": "Beginner",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'traveling with only a backpack'?",
+    "answer": "Backpacking",
+    "distractor1": "Layover",
+    "distractor2": "Bus stop",
+    "distractor3": "Hotel reservation",
+    "level": "Intermediate",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'an area in an airport where passengers wait before their flight'?",
+    "answer": "Departure lounge",
+    "distractor1": "Cultural heritage",
+    "distractor2": "Baggage claim",
+    "distractor3": "Subway map",
+    "level": "Intermediate",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a booking made in advance for accommodations at a hotel'?",
+    "answer": "Hotel reservation",
+    "distractor1": "Train station",
+    "distractor2": "Self-guided tour",
+    "distractor3": "Bus stop",
+    "level": "Intermediate",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a diagrammatic representation of a subway or metro system's routes and stations'?",
+    "answer": "Subway map",
+    "distractor1": "Guided tour",
+    "distractor2": "Boarding gate",
+    "distractor3": "Turbulence",
+    "level": "Intermediate",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'a tour in which individuals explore a place on their own'?",
+    "answer": "Self-guided tour",
+    "distractor1": "Car rental agency",
+    "distractor2": "Land transportation",
+    "distractor3": "Rush hour",
+    "level": "Intermediate",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'the practice of combining tourism with volunteering'?",
+    "answer": "Voluntourism",
+    "distractor1": "Dark tourism",
+    "distractor2": "Hyperloop transportation",
+    "distractor3": "Ecological footprint",
+    "level": "Advanced",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'the controversial act of taking and using elements of another culture by tourists without proper understanding or respect'?",
+    "answer": "Cultural appropriation in tourism",
+    "distractor1": "Jet lag",
+    "distractor2": "Space tourism",
+    "distractor3": "Interrail pass",
+    "level": "Advanced",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'an excessive number of tourists visiting a destination'?",
+    "answer": "Overtourism",
+    "distractor1": "Zero-gravity experiences",
+    "distractor2": "Remote work while traveling",
+    "distractor3": "Voluntourism",
+    "level": "Advanced",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'tourism involving travel to outer space for recreational'?",
+    "answer": "Astral tourism",
+    "distractor1": "Off-the-beaten-path destinations",
+    "distractor2": "Ride-sharing services",
+    "distractor3": "Carbon offset",
+    "level": "Advanced",
+    "lessonTitle": "Travel and Transportation"
+  },
+  {
+    "question": "What word means 'laws and guidelines that govern the operation of short-term rentals and accommodations through platforms like Airbnb'?",
+    "answer": "Airbnb regulations",
+    "distractor1": "Dark tourism",
+    "distractor2": "Adventure sports tourism",
+    "distractor3": "Astral tourism",
+    "level": "Advanced",
+    "lessonTitle": "Travel and Transportation"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What word means 'a small portion of food eaten between regular meals'?",
+    "answer": "Snack",
+    "distractor1": "Soup",
+    "distractor2": "Cheese",
+    "distractor3": "Sandwich",
+    "level": "Beginner",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a white liquid produced by mammals'?",
+    "answer": "Milk",
+    "distractor1": "Soda",
+    "distractor2": "Pepper",
+    "distractor3": "Mustard",
+    "level": "Beginner",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'sweet and fleshy plant products that are often consumed for their flavor'?",
+    "answer": "Fruits",
+    "distractor1": "Pizza",
+    "distractor2": "Appetizer",
+    "distractor3": "Dessert",
+    "level": "Beginner",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a thick, tangy sauce made from tomatoes, vinegar, sugar, and spices'?",
+    "answer": "Ketchup",
+    "distractor1": "Fish",
+    "distractor2": "Bread",
+    "distractor3": "Vegetables",
+    "level": "Beginner",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a dairy product made from fermented milk'?",
+    "answer": "Yogurt",
+    "distractor1": "Appetizer",
+    "distractor2": "Eating",
+    "distractor3": "Food",
+    "level": "Beginner",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'capable of being maintained over the long term without harming the environment or depleting resources'?",
+    "answer": "Sustainable",
+    "distractor1": "Sour",
+    "distractor2": "Stir-frying",
+    "distractor3": "Savory",
+    "level": "Intermediate",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'eating a variety of foods in proportions that provide the nutrients your body needs'?",
+    "answer": "Balanced diet",
+    "distractor1": "Umami",
+    "distractor2": "Street food",
+    "distractor3": "Baking",
+    "level": "Intermediate",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'food that is prepared and served quickly'?",
+    "answer": "Fast food",
+    "distractor1": "Gluten-free",
+    "distractor2": "Organic",
+    "distractor3": "Plating presentation",
+    "level": "Intermediate",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'cooking food by exposing it directly to high heat'?",
+    "answer": "Broiling",
+    "distractor1": "Sweet",
+    "distractor2": "Balanced diet",
+    "distractor3": "Savory",
+    "level": "Intermediate",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'the sense of taste, often used to refer to a person's ability to distinguish and appreciate flavors'?",
+    "answer": "Palate",
+    "distractor1": "Gourmet",
+    "distractor2": "Plating presentation",
+    "distractor3": "Organic",
+    "level": "Intermediate",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a person who primarily seeks out locally produced food and avoids foods that have traveled long distances'?",
+    "answer": "Locavore",
+    "distractor1": "Artisanal",
+    "distractor2": "Terroir",
+    "distractor3": "Degustation",
+    "level": "Advanced",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a stable mixture of two immiscible liquids'?",
+    "answer": "Emulsion",
+    "distractor1": "Artisanal",
+    "distractor2": "Culinary diplomacy",
+    "distractor3": "Molecular mixology",
+    "level": "Advanced",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'an innovative approach to cocktail-making that uses scientific techniques and tools to create unique flavors and textures'?",
+    "answer": "Molecular mixology",
+    "distractor1": "Farm-to-fork movement",
+    "distractor2": "Food security",
+    "distractor3": "Sustainability in gastronomy",
+    "level": "Advanced",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'the blending of culinary arts and food science in the preparation of food products'?",
+    "answer": "Culinology",
+    "distractor1": "Culinary innovation",
+    "distractor2": "Supertaster",
+    "distractor3": "Slow food movement",
+    "level": "Advanced",
+    "lessonTitle": "Food and Dining"
+  },
+  {
+    "question": "What word means 'a cooking approach that aims to minimize food waste throughout the entire cooking process'?",
+    "answer": "Zero-waste cooking",
+    "distractor1": "Slow food movement",
+    "distractor2": "Deconstruction",
+    "distractor3": "Craft cocktails",
+    "level": "Advanced",
+    "lessonTitle": "Food and Dining"
+  }
+]
