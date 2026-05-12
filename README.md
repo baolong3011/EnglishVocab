@@ -1,6 +1,4 @@
-# README.md
-
-## EnglishVocab: Full Stack English Vocabulary Learning Application Documentation
+# EnglishVocab: Full Stack English Vocabulary Learning Application Documentation
 
 EnglishVocab is a full-stack English vocabulary learning application developed using **React Native (Expo)** for the mobile app, **React + Vite** for the admin panel, and **NestJS with MongoDB** for the backend. It provides a personalized learning experience for English learners with adaptive level assessment, lesson-based vocabulary practice, quizzes, level-up tests, and an AI-powered chat assistant.
 
